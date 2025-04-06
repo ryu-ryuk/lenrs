@@ -1,7 +1,13 @@
 # lenrs – A TUI OCR Snippet Tool for Wayland 
 
 **lenrs** lets you select any screen area, extract text using Tesseract OCR, and auto-copy it to your clipboard.
+---
+## Preview
 
+
+https://github.com/user-attachments/assets/f407ceb5-dcfd-4c07-a749-98d2961532c0
+
+---
 ## Features 
 - Uses `slurp` + `grim` to select and capture screen area
 - Extracts text using `tesseract`
